@@ -3,11 +3,11 @@
 General code for my static personal site.
 
 ## Prerequisites
-Node.js
-Yarn
+*Node.js
+*Yarn
 
 ## How to Run
-Ensure current directory is the root of the project
-Install packages
-Install yarn
-Run 'yarn start' in new terminal
+*Ensure current directory is the root of the project
+*Install packages
+*Install yarn
+*Run 'yarn start' in new terminal
